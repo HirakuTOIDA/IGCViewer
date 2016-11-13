@@ -91,7 +91,7 @@ class RecordF(Record):
             self.dat[i,0] = line[1:7]
             for j in range(int((len(line) - 7) / 2)):
                 prn = int(line[7+2*j:9+2*j])
-                if 0 <= prn and prn <= 32:
+                if 0 < prn and prn <= 32:
                     self.dat[i,prn] = 1
 
         for i, _ in enumerate(self.dat):
