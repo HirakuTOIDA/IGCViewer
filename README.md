@@ -1,5 +1,5 @@
 ###IGC Data Viewer in Python
-See IGC FR Specification AL4a dated 10 April 2016 - FAI <http://www.fai.org/component/phocadownload/category/855-technicalspecifications?download=11006:igc-fr-spec-al4a>
+See IGC FR Specification AL4a dated 10 April 2016 - FAI <http://www.fai.org/component/phocadownload/category/855-technicalspecifications?download=11006:igc-fr-spec-al4a>.
 Libraries used in this script: numpy and matplotlib  
 This script is tested with Anaconda3 4.2.0 <https://www.continuum.io/anaconda-overview>.
 
