@@ -6,7 +6,7 @@ This script is tested with Anaconda3 4.2.0 <https://www.continuum.io/anaconda-ov
 
 #### IGCViewer.py
 IGC data viewer script.  
-'usage: IGCViewer.py [-h] [-s [START_GNSS_TIME]] [-e [END_GNSS_TIME]] filename'
+`usage: IGCViewer.py [-h] [-s [START_GNSS_TIME]] [-e [END_GNSS_TIME]] filename`
 
 #### License
 Copyright (c) 2016 Hiraku Toida
